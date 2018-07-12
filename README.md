@@ -46,7 +46,7 @@ ipfs是一个世界性的,版本化的对等文件系统. 它结合了 **Git,Bit
   - [安装整理好的构建包](#%E5%AE%89%E8%A3%85%E6%95%B4%E7%90%86%E5%A5%BD%E7%9A%84%E6%9E%84%E5%BB%BA%E5%8C%85)
   - [来自Linux包管理器](#%E6%9D%A5%E8%87%AAlinux%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8)
     - [Arch Linux](#arch-linux)
-  - [nix](#nix)
+    - [nix](#nix)
     - [snap](#snap)
   - [从源代码构建](#%E4%BB%8E%E6%BA%90%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA)
     - [安装Go](#%E5%AE%89%E8%A3%85go)
