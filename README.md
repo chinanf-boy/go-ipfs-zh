@@ -20,17 +20,21 @@
 
 进度: `2/18`
 
-- [x] [1. README.zh.md](./README.zh.md)
+- [x] [1. README.md](./README.md)
 - [x] [2. contribute.zh.md](./contribute.zh.md)
 - [ ] ...
 
-ipfs是一个世界性的,版本化的对等文件系统. 它结合了Git,BitTorrent,Kademlia,SFS 和 Web的好点子. 它就像一个 bittorrent swarm,交换 git对象. ipfs 提供了一个像 HTTP Web 一样简单的接口,但内置了永久性. 您还可以将世界挂载到 `/ipfs`. 
+---
 
-有关详情,请参阅: [https://github.com/ipfs/ipfs](https://github.com/ipfs/ipfs)
+ipfs是一个世界性的,版本化的对等文件系统. 它结合了 **Git,BitTorrent,Kademlia,SFS 和 Web** 的好点子. 它就像一个 bittorrent swarm,交换 git对象. ipfs 提供了一个像 HTTP Web 一样简单的接口,但内置了永久性. 您还可以将世界挂载到 `/ipfs`. 
 
-请将有关 ipfs *设计*的所有问题放到[ipfs repo问题](https://github.com/ipfs/ipfs/issues)
+- 有关详情,请参阅: [https://github.com/ipfs/ipfs](https://github.com/ipfs/ipfs)
 
-请将有关Go ipfs *实现*的所有问题在[这个repo](https://github.com/ipfs/go-ipfs/issues). 
+- 请将有关 ipfs *设计*的所有问题放到[ipfs repo问题](https://github.com/ipfs/ipfs/issues)
+
+- 请将有关 go-ipfs *实现*的所有问题在[这个repo](https://github.com/ipfs/go-ipfs/issues). 
+
+## 目录
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -105,7 +109,7 @@ ipfs 可以在大多数 Linux,macOS和Windows 系统上运行. 我们建议在�
 
 go-ipfs的开发版本也在AUR下[go-ipfs-git](https://aur.archlinux.org/packages/go-ipfs-git/). 您可以使用自己喜欢的 AUR Helper 安装它,也可以从 AU R手动安装. 
 
-### nix
+#### nix
 
 对于Linux和MacOSX,您可以使用纯功能包管理器[nix](https://nixos.org/nix/): 
 
