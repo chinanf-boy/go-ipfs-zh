@@ -21,7 +21,7 @@
 - [x] [0. dev.zh.md](./dev.zh.md)
 - [x] [1. README.md](./README.md)
 - [x] [2. contribute.zh.md](./contribute.zh.md)
-- [ ] [3. docs/command-completion.zh.md](./docs/command-completion.zh.md)
+- [x] [3. docs/command-completion.zh.md](./docs/command-completion.zh.md)
 - [x] [4. docs/config.zh.md](./docs/config.zh.md)
 - [x] [5. docs/datastores.zh.md](./docs/datastores.zh.md)
 - [ ] [6. docs/debug-guide.zh.md](./docs/debug-guide.zh.md)
