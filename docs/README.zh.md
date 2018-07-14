@@ -11,7 +11,7 @@
 -   [配置参考](config.zh.md)
     -   [数据存储配置](datastores.zh.md)
     -   [实验功能](experimental-features.zh.md)
--   [安装命令完成](command-completion.zh.md)
+-   [安装 命令补充{Tab}](command-completion.zh.md)
 -   [使用 FUSE 挂载IPFS](fuse.zh.md)
 -   [安装插件](plugins.zh.md)
 
