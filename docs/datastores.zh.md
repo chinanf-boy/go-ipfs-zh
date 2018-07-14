@@ -1,18 +1,18 @@
 
 # 数据存储配置选项
 
-本文档描述了不同的可能值`Datastore.Spec`ipfs配置文件中的字段. 
+本文档描述了ipfs配置文件中的`Datastore.Spec`字段不同的值. 
 
 ## flatfs
 
-将每个键值对存储为文件系统上的文件. 
+将每个键值对存储 为文件系统上的文件. 
 
-shardFunc的前缀是`/repo/flatfs/shard/v1`然后是分片策略的描述符. 一些示例值是: 
+shardFunc-碎片 的前缀是`/repo/flatfs/shard/v1`,然后是分片策略的描述符. 一些示例值是: 
 
 -   `/repo/flatfs/shard/v1/next-to-last/2`
-    -   在密钥的最后两个字符旁边的两个碎片上
+    -   密钥的最后两个字符旁边的碎片
 -   `/repo/flatfs/shard/v1/prefix/2`
-    -   基于密钥的两个字符前缀的碎片
+    -   密钥的两个字符前缀的碎片
 
 ```json
 {
@@ -23,11 +23,11 @@ shardFunc的前缀是`/repo/flatfs/shard/v1`然后是分片策略的描述符. �
 }
 ```
 
-注意: flatfs应仅用作块存储 (安装在`/blocks`) 因为当前的实施尚未完成. 
+注意: flatfs 仅用作 块存储 (安装在`/blocks`) 作为当前的实现尚未完成. 
 
 ## levelds
 
-使用leveldb数据库存储键值对. 
+使用 leveldb 数据库 存储键值对. 
 
 ```json
 {
@@ -39,7 +39,7 @@ shardFunc的前缀是`/repo/flatfs/shard/v1`然后是分片策略的描述符. �
 
 ## badgerds
 
-用途[獾](https://github.com/dgraph-io/badger)作为一个关键的价值商店. 
+使用[badger](https://github.com/dgraph-io/badger)作为一个键值存储. 
 
 ```json
 {
@@ -49,9 +49,9 @@ shardFunc的前缀是`/repo/flatfs/shard/v1`然后是分片策略的描述符. �
 }
 ```
 
-## 安装
+## 挂载
 
-允许指定的数据存储区处理前缀为给定路径的键. 挂载点将作为子数据存储定义中的键添加. 
+允许指定的数据存储区 处理 前缀为给定路径的键. 挂载点 将作为子数据存储 定义中的键添加. 
 
 ```json
 {
@@ -69,9 +69,9 @@ shardFunc的前缀是`/repo/flatfs/shard/v1`然后是分片策略的描述符. �
 }
 ```
 
-## 测量
+## 测量-measure
 
-此数据存储区是一个包装程序,可将指标跟踪添加到任何数据存储区. 
+此数据存储区是一个包装程序,用来添加 跟踪指标 到任何数据存储区. 
 
 ```json
 {

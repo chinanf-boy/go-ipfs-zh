@@ -1,5 +1,5 @@
 
-# IPFS API实施文件
+# IPFS API实现文件
 
 这篇简短的文档旨在为任何为IPFS实现实现API绑定的人提供快速指南 - 特别是go-ipfs. 
 
