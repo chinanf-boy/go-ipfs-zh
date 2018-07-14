@@ -28,7 +28,7 @@
 - [x] [5. docs/datastores.zh.md](./docs/datastores.zh.md)
 - [ ] [6. docs/debug-guide.zh.md](./docs/debug-guide.zh.md)
 - [ ] [7. docs/experimental-features.zh.md](./docs/experimental-features.zh.md)
-- [ ] [8. docs/file-transfer.zh.md](./docs/file-transfer.zh.md)
+- [x] [8. docs/file-transfer.zh.md](./docs/file-transfer.zh.md)
 - [ ] [9. docs/fuse.zh.md](./docs/fuse.zh.md)
 - [ ] [10. docs/github-issue-guide.zh.md](./docs/github-issue-guide.zh.md)
 - [ ] [11. docs/implement-api-bindings.zh.md](./docs/implement-api-bindings.zh.md)
