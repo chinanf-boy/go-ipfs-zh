@@ -14,9 +14,13 @@
 
 > ipfs的go语言实现
 
-## 校对🀄️
+## 校对✅
 
 - ⏰ 2018 7.10 开始
+
+<details>
+
+<summary> 西街 </summary>
 
 - [x] [0. dev.zh.md](./dev.zh.md)
 - [x] [1. README.md](./README.md)
@@ -36,6 +40,8 @@
 - [x] [15. docs/releases.zh.md](./docs/releases.zh.md)
 - [x] [16. docs/transports.zh.md](./docs/transports.zh.md)
 - [x] [17. docs/windows.zh.md](./docs/windows.zh.md)
+
+</details>
 
 - ⏰ 2018 7.14 结束
 
