@@ -20,7 +20,7 @@
 
 <details>
 
-<summary> 西街 </summary>
+<summary> 细节 ⏰ 2018 7.14 结束</summary>
 
 - [x] [0. dev.zh.md](./dev.zh.md)
 - [x] [1. README.md](./README.md)
@@ -43,7 +43,7 @@
 
 </details>
 
-- ⏰ 2018 7.14 结束
+[更多中文🇨🇳翻译](https://github.com/chinanf-boy/chinese-translate-list)
 
 ---
 
