@@ -1,5 +1,10 @@
 
-# go-ipfs
+# go-ipfs [![explain]][source] [![translate-svg]][translate-list]
+
+[explain]: http://llever.com/explain.svg
+[source]: https://github.com/chinanf-boy/go-ipfs-explain
+[translate-svg]: http://llever.com/translate.svg
+[translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
 ![banner](https://ipfs.io/ipfs/QmVk7srrwahXLNmcDYvyUEJptyoxpndnRa57YJ11L4jV26/ipfs.go.png)
 
