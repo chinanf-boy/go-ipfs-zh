@@ -28,13 +28,13 @@
 - [x] [7. docs/experimental-features.zh.md](./docs/experimental-features.zh.md)
 - [x] [8. docs/file-transfer.zh.md](./docs/file-transfer.zh.md)
 - [ ] [9. docs/fuse.zh.md](./docs/fuse.zh.md)
-- [ ] [10. docs/github-issue-guide.zh.md](./docs/github-issue-guide.zh.md)
+- [x] [10. docs/github-issue-guide.zh.md](./docs/github-issue-guide.zh.md)
 - [ ] [11. docs/implement-api-bindings.zh.md](./docs/implement-api-bindings.zh.md)
-- [ ] [12. docs/openbsd.zh.md](./docs/openbsd.zh.md)
-- [ ] [13. docs/plugins.zh.md](./docs/plugins.zh.md)
+- [x] [12. docs/openbsd.zh.md](./docs/openbsd.zh.md)
+- [x] [13. docs/plugins.zh.md](./docs/plugins.zh.md)
 - [x] [14. docs/README.zh.md](./docs/README.zh.md)
 - [x] [15. docs/releases.zh.md](./docs/releases.zh.md)
-- [ ] [16. docs/transports.zh.md](./docs/transports.zh.md)
+- [x] [16. docs/transports.zh.md](./docs/transports.zh.md)
 - [x] [17. docs/windows.zh.md](./docs/windows.zh.md)
 
 ---

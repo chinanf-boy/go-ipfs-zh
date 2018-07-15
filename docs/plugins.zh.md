@@ -1,25 +1,25 @@
 
 # 插件
 
-从0.4.11开始,go-ipfs有一个实验插件系统,可以在不重新编译的情况下扩充守护进程功能. 
+从 0.4.11 开始,go-ipfs有一个实验性的插件系统,可以在不重新编译的情况下扩充守护进程功能. 
 
-创建IPFS节点时,它将从中加载插件`$IPFS_PATH/plugins`目录 (默认情况下`~/.ipfs/plugins`) . 
+创建IPFS节点时,它将从`$IPFS_PATH/plugins`目录加载插件 (默认情况下`~/.ipfs/plugins`) . 
 
 ### 插件类型
 
 #### IPLD
 
-IPLD插件增加了对其他格式的支持`ipfs dag`和其他与IPLD相关的命令. 
+IPLD插件增加了对其他格式的支持 到`ipfs dag`和其他与IPLD相关的命令. 
 
 ### 支持的插件
 
 | 名称  | 类型   |
 | --- | ---- |
-| 混帐  | IPLD |
+| git  | IPLD |
 
 #### 安装
 
-##### Linux的
+##### Linux
 
 1.  构建包含的插件: 
 
@@ -40,9 +40,9 @@ go-ipfs$ chmod +x ~/.ipfs/plugins/git.so # ensure plugin is executable
 
 ##### 其他
 
-Go目前仅支持Linux上的插件,对于其他平台,您需要将它们编译为IPFS二进制文件. 
+Go目前仅支持Linux上的插件,对于其他平台,您需要将它们编译为 IPFS二进制文件. 
 
-1.  取消注释插件条目`plugin/loader/preload_list`
+1.  取消插件的相关注释在`plugin/loader/preload_list`
 2.  构建ipfs
 
 ```bash

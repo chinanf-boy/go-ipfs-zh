@@ -1,5 +1,5 @@
 
-# 在OpenBSD上构建
+# 在OpenBSD 上构建
 
 ## 准备你的系统
 
@@ -7,23 +7,23 @@
 
     $ doas pkg_add -v git go gmake
 
-## 准备去环境
+## 准备Go环境
 
-确保您的gopath已设置: 
+确保您的 gopath 已设置: 
 
     $ export GOPATH=~/go
     $ echo "$GOPATH"
     $ export PATH="$PATH:$GOPATH/bin"
 
-## 建立
+## 构建
 
-该`install_unsupported`target适用于openbsd. 这将安装`gx`,`gx-go`并运行`go install -tags nofuse ./cmd/ipfs`. 
+该`install_unsupported` target 适用于openbsd. 这将安装`gx`,`gx-go`,并运行`go install -tags nofuse ./cmd/ipfs`. 
 
     $ go get -v -u -d github.com/ipfs/go-ipfs
 
     $ cd $GOPATH/src/github.com/ipfs/go-ipfs
     $ gmake install_unsupported
 
-如果一切顺利,你的ipfs二进制文件应该准备好了`$GOPATH/bin/ipfs`. 
+如果一切顺利,你的 ipfs二进制文件 应该准备好了`$GOPATH/bin/ipfs`. 
 
     $ ipfs version
