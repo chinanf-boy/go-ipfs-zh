@@ -60,7 +60,14 @@
 
 </details>
 
-[更多中文🇨🇳翻译](https://github.com/chinanf-boy/chinese-translate-list)
+
+### 贡献
+
+欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
+
+## 生活
+
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
