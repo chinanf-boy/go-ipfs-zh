@@ -19,9 +19,21 @@
 
 > ipfs的go语言实现
 
-## 校对✅
+## 校对 ✅
 
-- ⏰ 2018 7.10 开始
+<!-- doc-templite START generated -->
+<!-- time = '2018 7.9' -->
+<!-- repo = 'ipfs/go-ipfs' -->
+<!-- commit = '7207b1c1c916a7a78cddad6f94078af408f541c8' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018 7.9 | ![last] | [中文翻译][translate-list]
+
+[last]: https://img.shields.io/github/last-commit/ipfs/go-ipfs.svg
+[commit]: https://github.com/ipfs/go-ipfs/tree/7207b1c1c916a7a78cddad6f94078af408f541c8
+
+<!-- doc-templite END generated -->
+
 
 <details>
 
