@@ -19,12 +19,12 @@
 
 > ipfs的go语言实现
 
-## 校对 ✅
+## 更新 中
 
 <!-- doc-templite START generated -->
-<!-- time = '2018 7.9' -->
+<!-- time = '2018 11.21' -->
 <!-- repo = 'ipfs/go-ipfs' -->
-<!-- commit = '7207b1c1c916a7a78cddad6f94078af408f541c8' -->
+<!-- commit = 'b7a48531b7b64fcaa858e2c28e42fb4eeb6fcc0d' -->
 翻译的原文 | 与日期 | 最新更新 | 更多
 ---|---|---|---
 [commit] | ⏰ 2018 7.9 | ![last] | [中文翻译][translate-list]
