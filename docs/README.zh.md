@@ -30,6 +30,6 @@
 
 ## 其他
 
--   [感谢我们所有的贡献者❤️](AUTHORS) (我们使用`generate-authors.sh`用于重新生成此列表的脚本. ) 
--   我们的[开发者 来源 证书 (DCO) ](developer-certificate-of-origin)- 当你签署你的提交时`Signed-off-by: <your name>`,您同意本文​​件. 
+-   [感谢我们所有的贡献者❤️](https://github.com/ipfs/go-ipfs/blob/master/docs/AUTHORS) (我们使用重新生成此列表的`generate-authors.sh`脚本。 ) 
+-   我们的[开发者 来源 证书 (DCO) ](https://github.com/ipfs/go-ipfs/blob/master/docs/developer-certificate-of-origin)- 当你`Signed-off-by: <your name>`签署你的提交时,您就同意了本文​​件。
 -   [如何提交GitHub问题](github-issue-guide.zh.md)
